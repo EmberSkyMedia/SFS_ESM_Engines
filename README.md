@@ -8,7 +8,8 @@ Upcoming Engines
 - Bird of Prey Set (Vaccum, Gimbal_Sea, Non_Gimbal_Sea)
 - SeaDragon + Sea Wyvern
 - Upgraded RCS
-- Retro Boosters
+- Pocket Engines
+- Retro Boosters (done a bit differently...)
 
 ![image](https://user-images.githubusercontent.com/109048742/181511923-4af7e266-ea6d-4f0d-85af-f1d852e8461e.png)
 
