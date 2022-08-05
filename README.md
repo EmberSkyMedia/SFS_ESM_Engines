@@ -1,10 +1,9 @@
 # SFS_ESM_ENGINES
 Engines Designed by me, often inspired by real world rocket engines.
 
-Currently 4 Engines are part of the pack semo-inspired by real engines.
+Currently 5 Engines are part of the pack semo-inspired by real engines inspired by F1, J-2, J-2X, Lunar Acent Engine, Aerospike.
 
 Upcoming Engines
-- Aerospike (maybe 3 sizes)
 - Bird of Prey Set (Vaccum, Gimbal_Sea, Non_Gimbal_Sea)
 - SeaDragon + Sea Wyvern
 - Upgraded RCS
