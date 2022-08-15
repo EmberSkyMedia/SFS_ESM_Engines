@@ -14,3 +14,5 @@ Upcoming Engines
 
 To get the engines, check out the latest release to the right ---->
 ![20220726144132_1](https://user-images.githubusercontent.com/109048742/181510856-8beac4b3-9cbb-4058-869f-063546a13715.jpg)
+
+[**_Be sure to subscribe to Pico Space Industries YouTube channel which is sponsoring this pack! It is REQUIRED that you mention PicoSpace Industries in your videos and link in the description to PicoSpace YT if you use these items in your own YouTube videos_**](https://www.youtube.com/channel/UCgPjBqQ1IptrZai4oLVZrXA/?sub_confirmation=1)
