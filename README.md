@@ -1,9 +1,9 @@
 # SFS_ESM_ENGINES
 Engines Designed by me, often inspired by real world rocket engines.
 
-5 Engines are part of the pack semi-inspired by real engines inspired by F1, J-2, J-2X, Lunar Acent Engine, Aerospike.
+5 Engines are part of the pack semi-inspired by real engines inspired by Apollo Program F1, J-2, J-2X, and Lunar Acent Engine
 
-2 Engines are Fan Requested Swift & Needle-point
+3 Engines are Fan Requested Swift, Needle-point, and Aerospike
 
 4 Engines are part of the Artemis Pack RS-25, RL10B-2 / C-3 / C-X, and Orbital Maneuvering System Engine
 
