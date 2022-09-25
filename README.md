@@ -14,7 +14,7 @@ Booster Pack has been added with a bunch of SRM and SRB, its a separate file and
 
 Solid Rocket Motors (click to activate/deactivate, use side separators to detatach)
 - Vari-Booster - resize for any of your rocket needs!
-- Aj-60
+- AJ-60A
 - GEM 40/46/60/65/65XL
 - 120
 - SRM120 Series 1205/1206/1207
