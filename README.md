@@ -22,7 +22,7 @@ Solid Rocket Motors (click to activate/deactivate, use side separators to detata
 Solid Booster Rockets (Click once to activate, second click detaches rocket)
 - SLS Booster V1
 - SLS Booster V2 (Enhanced)
-- Shuttle Booster
+- Shuttle Booster (Can be placed ON-TOP of Shuttle Tank and has a Double toggle to increase the mass & thrust by x2)
 - Ares Recoverable Booster (2 sizes)
 
 Additional Booster Items
